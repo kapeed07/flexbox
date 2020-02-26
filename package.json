@@ -1,5 +1,6 @@
 {
   "name": "flexbox",
+  "homepage": "http://kapeed07.github.io/flexbox",
   "version": "0.1.0",
   "private": true,
   "scripts": {
@@ -8,6 +9,7 @@
     "lint": "vue-cli-service lint"
   },
   "dependencies": {
+    "buefy": "^0.8.12",
     "core-js": "^3.6.4",
     "vue": "^2.6.11"
   },
